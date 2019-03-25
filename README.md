@@ -1,6 +1,6 @@
 # Burger Builder
 
-![Burger Builder](src/assets/images/burger-builder.gif)
+<div style="text-align:center">![Burger Builder](src/assets/images/burger-builder.gif)</div>
 
 ## Table of Contents
 * [Run Burger Builder Locally](#run-burger-builder-locally)
