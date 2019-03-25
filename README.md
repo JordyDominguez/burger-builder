@@ -1,9 +1,8 @@
 # Burger Builder
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JordyDominguez/burger-builder/master/src/assets/images/burger-builder.gif">
+  <img alt="Burger Builder"src="https://raw.githubusercontent.com/JordyDominguez/burger-builder/master/src/assets/images/burger-builder.gif">
 </p>
-![Burger Builder](src/assets/images/burger-builder.gif)
 
 ## Table of Contents
 * [Run Burger Builder Locally](#run-burger-builder-locally)
